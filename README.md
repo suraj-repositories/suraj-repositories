@@ -1,6 +1,6 @@
 # 📡 suraj-repositories
 
-Welcome to my GitHub profile! This github profile is dedicated to best practices on some popular techologies. I am using this profile for you quick reference and you can also use this too.
+Welcome to my GitHub profile! This github profile is dedicated to best practices on some popular techologies. I am using this profile for my quick reference and you can also use this too.
 
  🌱 I’m currently learning Spring boot<br>
  💬 Ask me about my snippits<br>
