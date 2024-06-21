@@ -1,4 +1,4 @@
-# 📡 suraj-repositories
+# 🍊 suraj-repositories
 
 Welcome to my GitHub profile! This github profile is dedicated to best practices on some popular techologies. I am using this profile for my quick reference and you can also use this too.
 
