@@ -29,25 +29,23 @@ Welcome to my GitHub profile! This github profile is dedicated to best practices
    
 ## 🐎 Learning & Progress
 
-
-
 <div align="center">
 <a href="https://github.com/suraj-repositories/github-readme-stats#responsive-card-theme#gh-light-mode-only">
 <div  style="width: 100%; display: flex;">
- <a href="https://github.com/suraj-repositories/github-readme-stats#responsive-card-theme#gh-light-mode-only" style="display: block;">
+ <a href="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false#gh-light-mode-only#responsive-card-theme#gh-light-mode-only" style="display: block;">
   <img align="center" style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=ProjectsAndPrograms&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false#gh-light-mode-only" alt="suraj-repositories github stats" />
  </a>
- <a href="https://github.com/suraj-repositories/github-readme-stats#responsive-card-theme#gh-light-mode-only" style="display:block;">
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-repositories&layout=compact&theme=buefy&hide_border=false#gh-light-mode-only#responsive-card-theme#gh-light-mode-only" style="display:block;">
   <img align="center" style="height: 195px;max-height: 200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-repositories&layout=compact&theme=buefy&hide_border=false#gh-light-mode-only" />
  </a>
 </div>
 </a>
 <a href="https://github.com/suraj-repositories/github-readme-stats#responsive-card-theme#gh-dark-mode-only">
 <div  style="width: 100%; display: flex;">
- <a href="https://github.com/suraj-repositories/github-readme-stats#responsive-card-theme#gh-dark-mode-only" style="display: block;">
+ <a href="https://github-readme-stats.vercel.app/api?username=suraj-repositories&show_icons=true&include_all_commits=true&theme=merko&hide_border=true#gh-dark-mode-only#responsive-card-theme#gh-dark-mode-only" style="display: block;">
   <img align="center" style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=suraj-repositories&show_icons=true&include_all_commits=true&theme=merko&hide_border=true#gh-dark-mode-only" alt="suraj-repositories github stats" />
  </a>
- <a href="https://github.com/suraj-repositories/github-readme-stats#responsive-card-theme#gh-dark-mode-only" style="display:block;">
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-repositories&layout=compact&theme=merko&hide_border=true#gh-dark-mode-only#responsive-card-theme#gh-dark-mode-only" style="display:block;">
   <img align="center" style="height: 195px;max-height: 200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-repositories&layout=compact&theme=merko&hide_border=true#gh-dark-mode-only" />
  </a>
 </a>
