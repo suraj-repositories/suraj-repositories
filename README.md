@@ -15,6 +15,7 @@ Welcome to my GitHub profile! This github profile is dedicated to best practices
   <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/php.png" alt="Tools" style="border-radius: 15px;"/>
   <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/laravel.png" alt="Tools" style="border-radius: 15px;"/>
   <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/react.png" alt="Tools" style="border-radius: 15px;"/>
+  <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/angular.png" alt="Tools" style="border-radius: 15px;"/>
   <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/html.png" alt="Tools" style="border-radius: 15px;"/>
   <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/css.png" alt="Tools" style="border-radius: 15px;"/>
   <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/js.png" alt="Tools" style="border-radius: 15px;"/>
