@@ -5,29 +5,21 @@ Welcome to my GitHub profile! This github profile is dedicated to best practices
  🌱 I’m currently learning Spring boot<br>
  💬 Ask me about my snippits<br>
  📫 How to reach me: conacts are mentioned below<br>
-
+ 
 ## 🚀 Technologies
 
-<p align="center">
-  <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/java.png" alt="Languages" style="border-radius: 15px;"/>
-  <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/spring.png" alt="Frameworks" style="border-radius: 15px;"/>
-  <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/spring-boot.png" alt="Databases" style="border-radius: 15px;"/>
-  <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/php.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/laravel.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/react.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/angular.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/html.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/css.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/js.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/bootstrap.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/mysql.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/mongo.png" alt="Tools" style="border-radius: 15px;"/>
-  <img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/postgres.png" alt="Tools" style="border-radius: 15px;"/>
-</p>
+| Java | Python | PHP | HTML5 | CSS3 | JavaScript |
+|:----:|:------:|:---:|:-----:|:----:|:----------:|
+| <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/java.png" title="Java" alt="Java"/></p> | <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/python.png" title="Python" alt="Python"/></p> | <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/php.png" title="PHP" alt="PHP"/></p> | <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/html.png" title="HTML5" alt="HTML"/></p> | <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/css.png" title="CSS3" alt="CSS"/></p> | <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/js.png" title="JavaScript" alt="JavaScript"/></p> |
+ 
+| Spring | Spring Boot | Django | Laravel | Livewire | React | Angular | Bootstrap | Qt |
+|:------:|:-----------:|:------:|:-------:|:--------:|:-----:|:-------:|:---------:|:---------:|
+| <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/spring.png" title="Spring" alt="Spring"/></p> | <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/spring-boot.png" title="Spring Boot" alt="Spring Boot"/></p> | <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/django.png" title="Django" alt="Django"/></p> | <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/laravel.png" title="Laravel" alt="Laravel"/></p> | <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/livewire.png" title="Livewire" alt="Livewire"/></p> | <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/react.png" title="React" alt="React"/></p> | <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/angular.png" title="Angular" alt="Angular"/></p> | <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/bootstrap.png" title="Bootstrap" alt="Bootstrap"/></p> | <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/qt.png" title="Qt" alt="Qt"/></p> |
 
-<br/>
+| MySQL | MongoDB | PostgreSQL |
+|:-----:|:-------:|:----------:|
+| <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/mysql.png" title="MySQL" alt="MySQL"/></p> | <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/mongo.png" title="MongoDB" alt="MongoDB"/></p> | <p align="center"><img src="https://github.com/ProjectsAndPrograms/ProjectsAndPrograms/blob/main/images/postgres.png" title="PostgreSQL" alt="PostgreSQL"/></p> |
 
-   
 ## 🐎 Learning & Progress
 
 <div align="center">
