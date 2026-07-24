@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! This github profile is dedicated to best practices on some popular techologies. I am using this profile for my quick reference and you can also use this too.
 
- 🌱 I’m currently learning Data Science<br>
+ 🌱 I’m currently learning modern coding practices<br>
  💬 Ask me about my snippits<br>
  📫 How to reach me: conacts are mentioned below<br>
  
