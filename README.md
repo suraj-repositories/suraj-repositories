@@ -45,8 +45,8 @@ Welcome to my GitHub profile! This github profile is dedicated to best practices
   <a href="https://www.oranbyte.com/">
     <img src="https://img.shields.io/badge/Website-oranbyte-orange?style=for-the-badge" alt="Oranbyte Badge"/>
   </a>
-   <a href="https://www.github.com/suraj-repositories">
-    <img src="https://img.shields.io/badge/Github-suraj-repositories-green?style=for-the-badge" alt="Github Badge"/>
+   <a href="https://www.github.com/ProjectsAndPrograms">
+    <img src="https://img.shields.io/badge/Github-ProjectsAndPrograms-green?style=for-the-badge" alt="Github Badge"/>
   </a>
   <a href="mailto:your.suraj2002fake@gmail.com">
     <img src="https://img.shields.io/badge/Email-your.shubhamkumarmaurya786@gmail.com-red?style=for-the-badge" alt="Email Badge"/>
