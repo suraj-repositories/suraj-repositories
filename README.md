@@ -49,7 +49,7 @@ Welcome to my GitHub profile! This github profile is dedicated to best practices
     <img src="https://img.shields.io/badge/Github-ProjectsAndPrograms-green?style=for-the-badge" alt="Github Badge"/>
   </a>
   <a href="mailto:your.suraj2002fake@gmail.com">
-    <img src="https://img.shields.io/badge/Email-your.shubhamkumarmaurya786@gmail.com-red?style=for-the-badge" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-shubhamkumarmaurya786@gmail.com-red?style=for-the-badge" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/shubham-kumar-277bba278/">
     <img src="https://img.shields.io/badge/LinkedIn-shubham_kumar_277bba278-blue?style=for-the-badge" alt="LinkedIn Badge"/>
