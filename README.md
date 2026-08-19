@@ -21,36 +21,55 @@ Welcome to my GitHub profile! This github profile is dedicated to best practices
 
 
 ## 🐎 Contributions
-<table> <tr> <td width="50%" align="center">
+ <div align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=suraj-repositories&theme=gruvbox&hide_border=true"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com?user=suraj-repositories&theme=default&hide_border=true"
-    />
-    <img
-      src="https://streak-stats.demolab.com?user=suraj-repositories&theme=default&hide_border=true"
-      width="100%"
-      alt="GitHub Streak"
-    />
-  </picture>
+<table>
+<tr>
 
-</td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suraj-repositories&theme=merko&hide_border=true&area=true&hide_title=true">
- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suraj-repositories&theme=github-light&hide_border=true&area=true&hide_title=true"> 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj-repositories&theme=github-light&hide_border=true&area=true&hide_title=true" width="100%" height="100%" alt="GitHub Activity Graph">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=suraj-repositories&theme=gruvbox&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=suraj-repositories&theme=default&hide_border=true"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=suraj-repositories&theme=default&hide_border=true"
+    width="100%"
+    alt="GitHub Streak"
+  />
 </picture>
 
 </td>
 
-</tr> </table>
+<td width="50%" valign="top">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=suraj-repositories&theme=merko&hide_border=true&area=true&hide_title=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=suraj-repositories&theme=github-light&hide_border=true&area=true&hide_title=true"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=suraj-repositories&theme=github-light&hide_border=true&area=true&hide_title=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</picture>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 
 ## 📫 Connect with Me
