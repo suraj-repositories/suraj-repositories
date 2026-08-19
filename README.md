@@ -23,9 +23,21 @@ Welcome to my GitHub profile! This github profile is dedicated to best practices
 ## 🐎 Contributions
 <table> <tr> <td width="50%" align="center">
 
-<!-- <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=suraj-repositories&theme=dark&hide_border=true"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=suraj-repositories&theme=default&hide_border=true"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-repositories&theme=default&hide_border=true" width="100%" alt="GitHub Streak"> </picture> -->
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=suraj-reopositories&theme=gruvbox&hide_border=true" alt="GitHub Streak" /></a>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=suraj-repositories&theme=gruvbox&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=suraj-repositories&theme=default&hide_border=true"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=suraj-repositories&theme=default&hide_border=true"
+      width="100%"
+      alt="GitHub Streak"
+    />
+  </picture>
 
 </td>
 <td width="50%" align="center">
