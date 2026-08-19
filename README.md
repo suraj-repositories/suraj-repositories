@@ -25,7 +25,7 @@ Welcome to my GitHub profile! This github profile is dedicated to best practices
 
 <!-- <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=suraj-repositories&theme=dark&hide_border=true"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=suraj-repositories&theme=default&hide_border=true"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-repositories&theme=default&hide_border=true" width="100%" alt="GitHub Streak"> </picture> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=suraj-reopositories&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=suraj-reopositories&theme=gruvbox&hide_border=true" alt="GitHub Streak" /></a>
 
 </td>
 <td width="50%" align="center">
