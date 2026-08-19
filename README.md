@@ -5,7 +5,7 @@ Welcome to my GitHub profile! This github profile is dedicated to best practices
  🌱 I’m currently learning modern coding practices<br>
  💬 Ask me about my snippits<br>
  📫 How to reach me: conacts are mentioned below<br>
- 
+  
 ## 🚀 Technologies
 | Java | Python | PHP | HTML5 | CSS3 | JavaScript |
 |:----:|:------:|:---:|:-----:|:----:|:----------:|
