@@ -23,11 +23,10 @@ Welcome to my GitHub profile! This github profile is dedicated to best practices
 ## 🐎 Contributions
  <div align="center">
 
-<table>
+ <table>
 <tr>
-
-<td width="50%" valign="top">
-
+<td align="center" width="50%">
+ 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -46,8 +45,7 @@ Welcome to my GitHub profile! This github profile is dedicated to best practices
 
 </td>
 
-<td width="50%" valign="top">
-
+<td align="center" width="50%"> 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -65,7 +63,6 @@ Welcome to my GitHub profile! This github profile is dedicated to best practices
 </picture>
 
 </td>
-
 </tr>
 </table>
 
